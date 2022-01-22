@@ -1,0 +1,121 @@
+   <div class="table-responsive">
+
+        <table class="table">
+
+            <thead>
+
+                <tr>
+
+                    <th>Monday</th>
+
+                    <th>Tuesday</th>
+
+                    <th>Wednesday</th>
+
+                    <th>Thursday</th>
+
+                    <th>Friday</th>
+
+                    <th>Saturday</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                <tr>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                    <td>Open – 10:00 AM<br /> Movies</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>10:00 – 12:00 PM<br /> PlayStation 4 Gaming</td>
+
+                    <td>10:00 – 12:00 PM<br /> Retro Gaming</td>
+
+                    <td>10:00 – 12:00 PM<br /> Movies</td>
+
+                    <td>10:00 – 12:00 PM<br /> PlayStation 4 Gaming</td>
+
+                    <td>10:00 – 12:00 PM<br /> Retro Gaming</td>
+
+                    <td>10:00 – 12:00 PM<br /> PlayStation 4 Gaming</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>12:00 – 2:00 PM<br /> 4K Movies</td>
+
+                    <td>12:00 – 2:00 PM<br /> 4K Movies</td>
+
+                    <td>12:00 – 2:00 PM<br /> Retro Gaming</td>
+
+                    <td>12:00 – 2:00 PM<br /> Virtual Reality</td>
+
+                    <td>12:00 – 2:00 PM<br /> 4K Movies</td>
+
+                    <td>12:00 – 2:00 PM<br /> 4K Movies</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>2:00 – 4:00 PM<br /> Retro Gaming</td>
+
+                    <td>2:00 – 4:00 PM<br /> Virtual Reality</td>
+
+                    <td>2:00 – 4:00 PM<br /> Retro Gaming</td>
+
+                    <td>2:00 – 4:00 PM<br /> 4K Movies</td>
+
+                    <td>2:00 – 4:00 PM<br />PlayStation 4 Gaming</td>
+
+                    <td>2:00 – 4:00 PM<br /> Retro Gaming</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>4:00 PM – Close<br /> 4K Movies</td>
+
+                    <td>4:00 PM – Close<br /> PlayStation 4 Gaming</td>
+
+                    <td>4:00 PM – Close<br /> PlayStation 4 Gaming</td>
+
+                    <td>4:00 PM – Close<br /> Retro Gaming</td>
+
+                    <td>4:00 PM – Close<br /> PlayStation 4 Gaming</td>
+
+                    <td>4:00 PM – Close<br /> Retro Gaming</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <div class="panel-body">
+
+        <p>*All times and experiences are subject to change without notice based on availability of staff.</p>
+
+        <p> VR to be available on during special events and is subject to change on availability.</p>
+
+        <p>Experiences available on a first-come, first-served basis during the times listed.</p>
+
+    </div>
